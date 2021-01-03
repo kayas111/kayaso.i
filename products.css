@@ -94,6 +94,8 @@ color: blue;
 l{color:green;
     font-size:30px;
 }
+.aud{
+opacity:0; }
 
 .gradt{background:linear-gradient(to bottom,green,white);}
 
