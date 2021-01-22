@@ -138,7 +138,7 @@ color: blue;
     
 }
 .photo{
-       width:900px;
+       width:60%;
     height:800px; 
     background:white;
     border:3px solid  #C2C2C2;
@@ -152,7 +152,7 @@ float: left;
     
 }
 .infor{
-       width:300px;
+       width:30%;
     height:600px;
 
     border:0px solid grey;
