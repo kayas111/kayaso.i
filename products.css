@@ -107,9 +107,9 @@ text-align:center;
 d{color:white;
 opacity:1;
 }
-y{  color:;
-    font-size:15px;
-    text-decoration:underline ;
+.fs{  color:;
+    font-size:50px;
+    text-decoration:;
 }
 z{
     font-size:20px;
@@ -119,9 +119,7 @@ k{
 color: blue;
 
 }
-.l{
-    font-size:50px;
-}
+
 
 .gradt{background:white;}
 .gradb{background:white;}
