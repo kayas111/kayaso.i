@@ -161,7 +161,7 @@ float:right;
 }
 .tagi{
     width:300px;
-    height:60px;
+    height:;
     background:white;
     border:3px solid #C2C2C2;
     border-radius:50px;
@@ -175,7 +175,7 @@ font-size:45px;
     
 .tags{
         width:300px;
-    height:60px;
+    height:;
     background:white;
     border:3px solid  #C2C2C2;
     border-radius:50px;
@@ -189,7 +189,7 @@ font-size:45px;
     
 .tagc{
     width:300px;
-    height:100px;
+    height:;
     background:white;
     border:0px solid black;
     border-radius:50px;
