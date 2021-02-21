@@ -22,22 +22,7 @@ text-decoration:underline;
 
 }
  
-/* The sidebar menu */
-.navt {
 
-    opacity:;
-  height:105px;
-  width:100%; 
-  position:fixed;
-  top:0;
-border:0px solid green;
-  right:0;
-left:0;
-  padding-top: 0px;
-
-
-
-}
 
 
 .navb{
@@ -55,12 +40,7 @@ left:0;
 
 
 }
-.linknav{
-    height:;
-width:60px;
-border:0px solid blue;
-border-radius:10px;
-}
+
 .dmd1{
 
 border:0px solid #C2C2C2;
@@ -79,34 +59,7 @@ font-size:13px;
 
 
 
-.navt1 {
 
-    opacity:;
-  height:50px;
-  width:100%; 
-  position:;
-  top:0;
-border:0px solid red;
-  right:;
-left:;
-  padding-top:;
-border-radius:3px;
-text-align:center;
-}
-.navt2 {
-
-    opacity:;
-  height:30px;
-  width:100%; 
-  position:;
-  top:;
-border:0px solid yellow;
-right:0;
-left:0;
- padding-top:;
-border-radius:3px;
-text-align:center;
-}
 
 
 
@@ -133,14 +86,9 @@ opacity:1;
 z{
     font-size:20px;
 }
-k{
-    font-size:30px;
-color: blue;
-
-}
 
 
-.gradt{background:white;}
+
 .gradb{background:white;}
 
 
@@ -221,7 +169,7 @@ font-size:15px;
 }
     
 .bdy{
-padding-top:60px;
+padding-top:0px;
 padding-left:10px;
 padding-right:10px;
 }
