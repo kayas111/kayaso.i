@@ -1,0 +1,201 @@
+body{
+
+font-family:Times New Roman;
+text-align:justify;
+ font-size:;
+ background:white;
+    color:blue;
+}
+.nega{
+width:100%;
+background:green; 
+color:white;
+text-align:center;
+padding:10px;
+
+}
+.navbar-toggler-icon{
+    background:white;
+border-radius:5px;
+
+
+}
+.bg-black{
+
+background:black!important;
+    
+}
+navbar-brand1:hover{
+    color:blue;
+}
+.badge1{
+    color:white;
+background:green;
+}
+navbar-brand1{
+    color:white;
+font-size:28px;
+}
+nav-link1{
+font-size:;
+    color:white;
+}
+nav-link1:hover {
+color:green;
+text-decoration:underline;
+
+
+}
+
+
+.navb{
+
+    opacity:;
+  height:300px;
+  width:100%; 
+  position:;
+  top:;
+border:0px solid green;
+  right:0;
+left:0;
+  padding-top:;
+
+
+
+}
+
+.dmd1{
+
+border:0px solid #C2C2C2;
+border-radius:0px;
+color:red;
+font-size:13px;
+
+}
+.dmd2{
+
+border:0px solid #C2C2C2;
+border-radius:0px;
+color:red;
+font-size:13px;
+} 
+
+
+
+
+
+.cont, a:hover {
+  color:#FF002E;
+}
+
+
+d{color:white;
+opacity:1;
+}
+
+z{
+    font-size:20px;
+}
+
+
+.gradb{background:white;}
+
+
+.item{
+       width:100%;
+    height:400px;
+    background:white;
+    border:0px solid #C2C2C2;
+    border-radius:;
+    
+    
+}
+
+.photo{
+       width:100%;
+    height:55%; 
+    background:white;
+    border:0px solid  blue;
+    border-radius:10px;
+
+    overflow:scroll;
+    text-align:center;
+
+
+
+     
+}
+.infor{
+       width:100%;
+    height:40%;
+
+    border:0px solid grey;
+    border-radius:;
+    text-align:center;
+
+}
+.tagi{
+    width:100%;
+    height:;
+    background:blue;
+    border:1px solid blue; 
+    border-radius:10px;
+    color: white;
+    
+    text-align:center;
+    float:left;
+font-size:16px;
+    
+}
+    
+.tags{
+        width:80px;
+    height:;
+    background:white;
+    border:1px solid  #C2C2C2;
+    border-radius:10px;
+    color: #C2C2C2;
+    text-align:center;
+    float:left;
+font-size:13px;
+
+    
+}
+     
+.tagc{
+    width:100%;
+    height:;
+    background:green;
+    border:0px solid black;
+    border-radius:10px;
+    color:white;
+    opacity:1;
+    text-align:center;
+    float:left;
+font-size:16px;
+    
+}
+    
+.bdy{
+padding-top:0px;
+padding-left:10px;
+padding-right:10px;
+}
+.bdy2{
+width:;
+font-size:13px;
+color:blue;
+border:0px solid blue;
+border-radius:10px;
+padding:5px;
+
+
+}
+.aud{
+
+    width:0px;
+opacity:0;
+
+
+
+}
