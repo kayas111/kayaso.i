@@ -6,6 +6,10 @@ text-align:justify;
  background:white;
     color:blue;
 }
+.badge1{
+    color:white;
+background:green;
+}
 navbar-brand1:hover{
     color:red;
 }
