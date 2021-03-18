@@ -6,6 +6,36 @@ text-align:justify;
  background:white;
     color:blue;
 }
+.caption-four{
+    color:#FF000F;
+}
+.caption-one{
+    color:#000000; 
+}
+.caption-two{
+    color:#FFEA00; 
+}
+.caption-three{
+    color:#0A00CD;
+}
+
+.carousel-caption{
+    border:0px solid red; 
+height:100%;
+
+font-size:20px;
+
+}
+ 
+.carousel-control-next{
+    width:30px;
+border:0px;
+}
+.carousel-control-prev{
+border:0px solid green;
+
+    width:30px;
+} 
 .item-id{
     text-align:center;
 color:grey;
