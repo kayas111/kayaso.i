@@ -26,11 +26,9 @@ height:100%;
 font-size:20px;
 
 }
-.carousel{
- box-shadow: 4px 4px 20px green ;
-}
 .carousel-inner{
  border-radius:10px;
+ box-shadow: 4px 4px 20px green ;
 }
 .carousel-control-next{
     width:30px;
