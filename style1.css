@@ -68,7 +68,7 @@ color:grey;
 .item-cont{
     width:100%;
     height:;
-    background:green;
+    background:black;
     border:0px solid blue;
     border-radius:10px;
     color:white;
@@ -190,6 +190,7 @@ z{
     border:0px solid grey;
     border-radius:;
     text-align:center;
+background:url("data1.jpg");
 
 }
 .tagi{
