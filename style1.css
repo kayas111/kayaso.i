@@ -91,6 +91,9 @@ border-radius:5px;
 
 
 }
+.navbar-nav{
+background:url("data1.jpg");
+}
 .bg-black{
 
 background:black!important;
