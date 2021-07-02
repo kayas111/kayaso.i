@@ -81,7 +81,7 @@ font-size:17px;
        width:100%;
     height:;
     background:black;
-    border-left:1.5px solid green;
+    border-left:;
     border-radius:10px;
     
     box-shadow: 5px 8px  15px black;
@@ -287,7 +287,7 @@ font-size:13px;
 color:blue;
 border:0px solid blue;
 border-radius:10px;
-padding:5px;
+padding:0px;
 
 
 }
