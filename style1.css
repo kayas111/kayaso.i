@@ -44,7 +44,7 @@ border:0px solid green;
        width:100%;
     height:350px;
     background:black;
-    border-left:1.5px solid green;
+    border-left:;
     border-radius:10px;
     box-shadow:5px 8px 15px black;
     
@@ -162,10 +162,15 @@ border-top:1px solid white;
 
 
 .navb{
- height:;
-  width:100%;
-border:0px solid green;
-  background:green;
+    background:green;
+height:40px;
+text-align:left;
+color:white;
+padding:10px;
+border-bottom:2px solid green;
+}
+.navbb{
+    background:black;
 }
 
 .dmd1{
