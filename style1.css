@@ -9,8 +9,8 @@ text-align:justify;
 .hdl{
 text-align:justify;
 padding:10px;
-border-top:25px solid green;
-color:green;
+border-top:25px solid white;
+color:grey;
 height:300px;
 overflow:scroll;
 }
