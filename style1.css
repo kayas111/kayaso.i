@@ -10,6 +10,9 @@ text-align:justify;
 text-align:justify;
 padding:10px;
 color:green;
+height:350px;
+width:100%;
+overflow:scroll;
 }
 .caption-four{
     color:#FF000F;
