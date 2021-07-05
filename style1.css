@@ -9,8 +9,9 @@ text-align:justify;
 .hdl{
 text-align:justify;
 padding:10px;
+padding-top:20px;
 color:grey;
-height:230px;
+height:300px;
 overflow:scroll;
 }
 .caption-four{
