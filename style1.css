@@ -12,7 +12,7 @@ padding:20px;
 border-top:18px solid #ECECEC;
 color:grey;
 height:300px;
-overflow:scroll;
+overflow:scroll; 
 }
 .caption-four{
     color:#FF000F; 
