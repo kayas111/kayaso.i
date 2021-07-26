@@ -126,7 +126,8 @@ background:green;
 color:white;
 text-align:center;
 padding:10px;
-
+font-family: 'Tangerine', serif;
+       
 }
 .navbar-toggler-icon{
     background:white;
